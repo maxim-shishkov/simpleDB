@@ -2,7 +2,7 @@
 
 Лёгкий десктопный клиент для PostgreSQL под macOS. Построен на **Tauri 2 + Rust + React**.
 
-![logo](docs/screenshots/logo.png)
+<img src="docs/screenshots/logo.png" alt="logo" width="50%">
 
 ## Возможности
 
