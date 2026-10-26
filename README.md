@@ -58,7 +58,7 @@ Tauri CLI устанавливается как dev-зависимость пр�
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/YOUR_USER/simpledb.git
+git clone https://github.com/maxim-shishkov/simpleDB.git
 cd simpledb
 npm install
 npm run tauri dev
