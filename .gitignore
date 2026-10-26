@@ -1,0 +1,24 @@
+# Зависимости и сборка фронтенда
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Rust / Tauri
+src-tauri/target/
+src-tauri/gen/schemas/
+
+# macOS / редакторы
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Логи
+*.log
+npm-debug.log*
+
+# Секреты и локальные данные
+.env
+.env.*
+# Если файл с подключениями лежит в папке проекта — впишите его имя сюда:
+# connections.json
